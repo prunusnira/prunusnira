@@ -10,4 +10,4 @@
 * PIU Manager: https://piu.nira.one
 * Twitch BanPicker: https://banpick.nira.one
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prunusnira)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prunusnira&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
