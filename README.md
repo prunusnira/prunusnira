@@ -9,3 +9,5 @@
 * Skill Navigator: https://sin.nira.one
 * PIU Manager: https://piu.nira.one
 * Twitch BanPicker: https://banpick.nira.one
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prunusnira)](https://github.com/anuraghazra/github-readme-stats)
